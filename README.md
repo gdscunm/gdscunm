@@ -6,7 +6,7 @@ Google Developer Student Clubs (GDSC) are community groups for college students 
 
 In 2021, GDSC will be present at Makassar State University (UNM) for the first time. This is a great opportunity for all UNM students from all majors and study programs to be able to learn and collaborate together in the field of technology. We create open source project where everyone can contribute.
 
-### Are you interested in building great things together?
+### Interested to join?
 Join the GDSC Universitas Negeri Makassar, and let's make an impact on our community ecosystem! 
 <br>
 Register as a member here 👇 
