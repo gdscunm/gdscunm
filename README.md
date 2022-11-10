@@ -1,4 +1,4 @@
-[![DSC UNM GitHub Banner](https://developers.google.com/community/gdsc/images/gdsc-social-share.png)](https://gdsc.community.dev/universitas-negeri-makassar/)
+[![DSC UNM GitHub Banner](https://github.com/gdscunm/gdscunm/blob/dcf495a4a89512dc59c80dbad5c9516a616e1baf/gdscImageHeader.png)](https://gdsc.community.dev/universitas-negeri-makassar/)
 
 Hi there 👋
 
